@@ -1,23 +1,19 @@
-﻿# Pertemuan 4 — Pemrograman Mobile
-
-## Deskripsi
-Praktikum Flutter mengenai Future, HTTP, JSON, API, dan navigasi halaman.
-
-## Materi
-1. Future dan asynchronous programming.
-2. Mengambil data menggunakan HTTP.
-3. Parsing JSON ke objek Dart.
-4. Menampilkan daftar pengguna.
-5. Menampilkan detail pengguna dengan Navigator.
+﻿# Pertemuan 4 - Pemrograman Mobile
 
 ## Struktur Folder
-- docs-tugas/
-- modul/
-- praktikum4/
-- tugas4/
+- Docs Tugas: dokumentasi dan laporan praktikum.
+- Modul: modul pembelajaran Pertemuan 4.
+- Praktikum: source code aplikasi Flutter.
+- Tugas: source code tugas mandiri.
 
 ## Teknologi
-Flutter, Dart, REST API, JSONPlaceholder.
+- Flutter
+- Dart
+- HTTP
+- SQLite (sqflite)
+- Shared Preferences
 
-## API
-https://jsonplaceholder.typicode.com/users
+## Menjalankan Aplikasi
+1. Buka folder praktikum_4_abdullah.
+2. Jalankan lutter pub get.
+3. Jalankan lutter run.
