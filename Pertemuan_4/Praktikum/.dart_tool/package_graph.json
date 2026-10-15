@@ -64,7 +64,7 @@
     },
     {
       "name": "sqflite",
-      "version": "2.4.4+1",
+      "version": "2.4.4+2",
       "dependencies": [
         "flutter",
         "path",
@@ -247,7 +247,7 @@
     },
     {
       "name": "sqflite_common",
-      "version": "2.5.13+1",
+      "version": "2.5.14",
       "dependencies": [
         "meta",
         "path",
@@ -267,7 +267,7 @@
     },
     {
       "name": "sqflite_darwin",
-      "version": "2.4.4",
+      "version": "2.4.4+1",
       "dependencies": [
         "flutter",
         "meta",
@@ -278,7 +278,7 @@
     },
     {
       "name": "sqflite_android",
-      "version": "2.4.4",
+      "version": "2.4.4+1",
       "dependencies": [
         "flutter",
         "path",
@@ -429,7 +429,7 @@
     },
     {
       "name": "synchronized",
-      "version": "3.4.2",
+      "version": "3.5.0",
       "dependencies": []
     },
     {
@@ -448,7 +448,7 @@
     },
     {
       "name": "vm_service",
-      "version": "15.3.0",
+      "version": "15.4.0",
       "dependencies": []
     },
     {
