@@ -14,6 +14,7 @@
 - Shared Preferences
 
 ## Menjalankan Aplikasi
-1. Buka folder praktikum_4_abdullah.
+1. Buka folder Praktikum.
 2. Jalankan lutter pub get.
 3. Jalankan lutter run.
+
