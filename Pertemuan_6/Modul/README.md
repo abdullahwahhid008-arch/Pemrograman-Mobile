@@ -1,1 +1,1 @@
-# Modul Pertemuan 6
+# Modul Praktikum Pertemuan 6
