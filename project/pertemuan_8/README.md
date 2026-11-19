@@ -1,17 +1,16 @@
-# pertemuan_8
+# PERTEMUAN 8
 
-A new Flutter project.
+## Dokumentasi Praktikum
+Implementasi aplikasi TabungKu Cloud menggunakan Flutter dan Docker Compose.
 
-## Getting Started
+## Struktur Folder
+- Docs Tugas: Screenshot dan dokumentasi praktikum.
+- Modul: Modul pembelajaran.
+- Praktikum: Source code aplikasi TabungKu.
+- Tugas: Hasil pengerjaan tugas.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Teknologi
+- Flutter dan Dart
+- FastAPI
+- MySQL 8.4
+- Docker Compose
